@@ -1,4 +1,4 @@
-# 🐘 Walrus Blob Uploader — Walrus TS SDK Fullstack Demo
+# Walrus Blob Uploader — Walrus TS SDK Fullstack Demo
 
 This project is a fullstack TypeScript-based demo that shows how to upload content (as blobs) to [Walrus](https://sdk.mystenlabs.com/walrus) using the official Mysten TS SDK. It features:
 
